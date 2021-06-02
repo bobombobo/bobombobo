@@ -4,7 +4,8 @@ I mainly work with hidding and obfuscating code along with encryption.
 Most of my programs are open source but I would like credit for my work.
 
 Join my discord!
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+
+![](https://komarev.com/ghpvc/?username=bobombobo&color=blue)
 
 
 █████████████████████████████████████████████████████
